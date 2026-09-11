@@ -9,7 +9,7 @@ Niger.
   posteriori control of the procurement procedure is a SEPARATE body,
   the Direction Générale du Contrôle des Marchés Publics et des
   Engagements Financiers, per Décret n°2014-070/PRN/ME/F du 12 février
-  2014 (see `src/marketentry/facts.cljc`)
+  2014 (see `src/marketentry/facts.cljk`)
 - Public procurement is governed by the Code des marchés publics (Décret
   n° 2022-743/PRN/PM du 29 septembre 2022, implementing the framework Loi
   N°2011-37 du 28 Octobre 2011, amended by Décret N°2026-0099/PRN/PM du
