@@ -56,7 +56,7 @@ verified rather than assumed):
   scope, including this iteration's own OCR-reading of a scanned décret
   PDF and an honestly-flagged, unresolved gap over ANPIPS's identity as
   the Code des Investissements' own Article 3 guichet unique).
-- `src/statute/facts.cljc` -- general-law catalog: the OHADA Uniform Act
+- `src/statute/facts.cljk` -- general-law catalog: the OHADA Uniform Act
   on Commercial Companies (AUSCGIE, directly applicable, no domestic
   transposition act -- Niger's own OHADA membership independently
   re-confirmed this session), the Code du Travail (Loi n°2012-45 du 25
@@ -84,7 +84,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Niger:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
